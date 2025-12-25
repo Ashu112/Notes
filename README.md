@@ -4,6 +4,7 @@
 - This repo covers both Frontend and backend notes required for fullstack engineering roles.
 - Covers React, Next, Node, JavaScript essentials along with code snippets
 - Easy to understand and learn from doing approach.
+- DSA Notes to understand patterns not just the algorithm.
 
 # Technologies 
 - React.js
